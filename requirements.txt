@@ -1,0 +1,6 @@
+python-dotenv==1.0.0
+openai==1.12.0
+supabase==1.2.0
+botbuilder-core==4.4.0b2
+botbuilder-integration-aiohttp==4.4.0b2
+aiohttp==3.6.2
